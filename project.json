@@ -1,0 +1,5 @@
+{
+  "name": "python36",
+  "description": "Python 3.6 example project",
+  "role": "arn:aws:iam::574143188889:role/service-role/test-role-4coionwc"
+}
